@@ -2,3 +2,4 @@ This is demo txt file. modifying some thing.
 Remotely modifying 
 Local Modifying.
 Modifying Form New Featur branch.
+Remote Visual Studio conflict 
