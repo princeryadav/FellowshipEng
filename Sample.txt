@@ -1,1 +1,2 @@
 This is new Feature file. Making conflict from loacl. 
+This is new Feature file And i am making some changes for conflict.
